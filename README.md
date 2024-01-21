@@ -2,6 +2,8 @@
 - Reactを使用
 - Firebaseにデプロイ
 
+ビルド、デプロイについての最低限のCIコードしか記載していないです。
+
 ## 参考サイト
 [React × Firebase × Gitlabで自動デプロイ(CI/CD)を構築する](https://zenn.dev/hisasy/articles/cea64d233ba538)
 
